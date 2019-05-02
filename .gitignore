@@ -1,0 +1,8 @@
+# Environment
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Dataset
+dataset/
